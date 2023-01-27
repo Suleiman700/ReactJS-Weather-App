@@ -1,5 +1,5 @@
 ## Weather App
-A simple ReactJS weather application that uses API to get weather details about a location you are search for.
+A simple ReactJS weather application that uses API to get weather details about a location you are searching for.
 
 Features:
 - Uses API.
